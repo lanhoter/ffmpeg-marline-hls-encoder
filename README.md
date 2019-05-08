@@ -7,7 +7,7 @@ If there is no MP4 video in the current folder. Nothing will happen.
 A Guideline to perform the convert:  
   
     Place the python script under the target folder  
-    Open the terminal and type: "Python ffmpegDRMEncoder.py"  
+    Open the terminal and type: "Python3 ffmpegDRMEncoder.py"  
     It will create an output folder named "out" in the current directory.  
     All the encrypted TS files and master.m3u8 playlist will be moved accordingly into the "out" folder.  
 
