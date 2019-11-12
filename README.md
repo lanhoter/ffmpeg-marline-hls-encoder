@@ -1,6 +1,6 @@
 # ffmpeg-split
 
-This tool can convert MP4 video into TS fragments and DRM Encrypted.  
+This tool can convert MP4 video into TS fragments and Encrypted.  
   
 If there is no MP4 video in the current folder. Nothing will happen.  
   
